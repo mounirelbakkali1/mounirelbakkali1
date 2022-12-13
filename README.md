@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mounir El Bakkali</h1>
-<h3 align="center">A passionate Full Stack Web Developer & programming contest enthusiast from Morocco</h3>
+<h3 align="center">A passionate Full Stack Web Developer & Programming Contest Enthusiast from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounirelbakkali1&label=Profile%20views&color=0e75b6&style=flat" alt="mounirelbakkali1" /> </p>
 
