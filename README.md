@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaEE , JavaScript , TypeScript & more..**
 
-- 📫 How to reach me **bakkalimounir41@gmail.com , M.ELBAKKALI@student.youcode.ma**
+- 📫 How to reach me  **bakkalimounir41@gmail.com , M.ELBAKKALI@student.youcode.ma**
 
 - ⚡ Fun fact **I think I am a good debugger :)**
 
