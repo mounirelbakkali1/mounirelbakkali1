@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mounir El Bakkali</h1>
+<h1 align="center">Hi 👋, I'm Mounir</h1>
 <h3 align="center">A passionate Full Stack Java Developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounirelbakkali1&label=Profile%20views&color=0e75b6&style=flat" alt="mounirelbakkali1" /> </p>
@@ -11,13 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Entreprise web apps using Spring boot & Angular**
 
-- 👨‍💻 All of my projects are available at [mounir.elbakkali.me](mounir.elbakkali.me)
-
 - 📝 I regularly write articles on [tips4engineers.me](https://tips4engineers.me)
 
 - 💬 Ask me about **Java EE , Spring  , Entreprise application development & more..**
-
-- 📫 How to reach me  **bakkalimounir41@gmail.com**
 
 - ⚡ Fun fact **I am a good debugger :)**
 
